@@ -1,0 +1,128 @@
+/*!
+ * Pics Mash CSS
+ * http://www.picsmashplugin.com
+ * V2.0
+ *
+ * Copyright 2012, Mike Stott, MYO
+ *
+ * Date: 02/11/2012
+ */
+
+#pics_holder{
+	width:100%;
+}
+#pics_content{
+	width:60%;
+	float:left;
+}
+.ps-entry-title{
+	padding-bottom:5%;
+}
+#pics_meta{
+	width:100%;
+	float:left;
+	padding-bottom:5%;
+}
+#pics_image{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5%;
+	background:black;
+	overflow:hidden;
+}
+#pics-comments{
+	width:35%;
+	float:right;
+	padding-left:5%;
+}
+.picsmashvoting{
+	width:100%;
+	overflow:hidden;
+	
+}
+
+.picsmashvoting2{
+	padding-bottom:5px;
+	width:95%;
+}
+
+#picsmash{
+	width:100%;
+}
+
+#picleft{
+	float:left;
+	width:40%;
+}
+.scores{
+	text-align:center;
+	float:left;
+	width:100%
+}
+
+#OR{
+	float:left;
+	padding-top:15%;
+	width:20%;
+	text-align:center;
+}
+
+#picright{
+	float:right;
+	width:40%;
+}
+
+
+.picholder{
+	overflow:hidden;
+	float:left;
+}
+.picrated{
+	overflow:hidden;
+	float:left;
+	padding:1%;
+	position:relative;
+	height: 200px;
+}
+
+.ps-top-score{
+	overflow:hidden;
+	float:left;
+	padding:1%;
+	display:none;
+	background:white;
+	position:relative;
+	height:200px;
+}
+
+
+
+.fbFeedbackContent .fbFeedbackPosts {
+padding: 0 0 0 10px;
+height: 200px !important;
+overflow: auto !important;
+}
+
+.socialshare{
+	text-align:left;
+	padding-top:4%;
+}
+
+.ps-table th{
+	text-align:center;
+	width: 20%;
+	vertical-align:middle;
+}
+
+.ps-table tr td{
+	text-align:center;
+	width:20;
+	vertical-align:middle;
+}
+
+.fb-comments, .fb-comments span, .fb-comments.fb_iframe_widget span iframe {
+	width: 100% !important;
+}
+
+ 
